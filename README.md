@@ -1,28 +1,27 @@
-# Hola 👋 Soy Agustín Olavarría
+# 👋 Hola, soy Agustín Olavarría
 
-🎓 Estudiante de Licenciatura en Programación
+🎓 **Estudiante de Licenciatura en Informática**  
 Universidad Nacional de Hurlingham (UNAHUR)
 
-Mi principal interés profesional es el desarrollo Backend y la Ingeniería de Software. Disfruto especialmente diseñar soluciones, modelar problemas utilizando Programación Orientada a Objetos y desarrollar aplicaciones mantenibles siguiendo buenas prácticas de desarrollo.
+💻 Mi principal interés profesional es el **desarrollo Backend** y la **Ingeniería de Software**. Disfruto diseñando soluciones, modelando problemas mediante Programación Orientada a Objetos y desarrollando aplicaciones mantenibles aplicando buenas prácticas de desarrollo.
 
-Actualmente continúo ampliando mis conocimientos mientras desarrollo proyectos académicos y personales utilizando Java, TypeScript y React.
-
----
-
-## Áreas de interés
-
-• Backend Development
-• Software Engineering
-• Programación Orientada a Objetos
-• APIs REST
-• Arquitectura de Software
-• Diseño de Sistemas
-• Bases de Programación
-• Calidad de Software
+Actualmente continúo ampliando mis conocimientos mientras desarrollo proyectos académicos y personales utilizando **Java**, **TypeScript** y **React**.
 
 ---
 
-## Tecnologías
+# 🚀 Áreas de interés
+
+- Backend Development
+- Software Engineering
+- Programación Orientada a Objetos
+- APIs REST
+- Arquitectura de Software
+- Diseño de Sistemas
+- Calidad de Software
+
+---
+
+# 💻 Tecnologías
 
 ### Lenguajes
 
@@ -31,7 +30,7 @@ Actualmente continúo ampliando mis conocimientos mientras desarrollo proyectos 
 - TypeScript
 - Python
 
-### Frameworks y herramientas
+### Frameworks y Herramientas
 
 - React
 - Node.js
@@ -41,17 +40,17 @@ Actualmente continúo ampliando mis conocimientos mientras desarrollo proyectos 
 - Vite
 - Maven
 
-Actualmente aprendiendo:
+### Actualmente aprendiendo
 
-- SQL
 - Spring Boot
+- SQL
 - Docker
 
 ---
 
-# Formación Académica
+# 📚 Formación Académica
 
-Durante la carrera desarrollé conocimientos en:
+Durante la carrera desarrollé conocimientos en las siguientes áreas:
 
 ### Fundamentos
 
@@ -61,13 +60,13 @@ Durante la carrera desarrollé conocimientos en:
 - Programación estructurada
 - Algoritmos
 
-### Desarrollo de Software
+### Ingeniería de Software
 
 - Programación Orientada a Objetos I y II
 - Patrones de Diseño
 - UML
-- Testing Unitario
 - Clean Code
+- Testing Unitario
 - TDD
 - Programación Concurrente
 - Construcción de Interfaces de Usuario
@@ -81,32 +80,32 @@ Durante la carrera desarrollé conocimientos en:
 - Diccionarios
 - Recursividad
 - Análisis de algoritmos
-- TDA
+- Tipos de Datos Abstractos (TDA)
 
 ### Desarrollo Web
 
 - HTML
 - CSS
-- Tecnologías Web
 - React
 - Consumo de APIs REST
+- Tecnologías Web
 
-### Otros
+### Otros conocimientos
 
 - Inglés I y II
 - Trabajo colaborativo con Git y GitHub
 
 ---
 
-# Proyectos Destacados
+# 🚀 Proyectos Destacados
 
-🌐 Anti Social Net
+## 🌐 Anti Social Net
 
-Proyecto académico grupal desarrollado para la Universidad Nacional de Hurlingham.
+Proyecto académico grupal desarrollado para la **Universidad Nacional de Hurlingham**.
 
-Aplicación web que simula una red social, desarrollada con React y TypeScript, aplicando consumo de APIs REST, manejo de estado y componentes reutilizables.
+Aplicación web que simula una red social, desarrollada con **React** y **TypeScript**, aplicando consumo de APIs REST, manejo de estado y componentes reutilizables.
 
-Tecnologías
+### Tecnologías
 
 - React
 - TypeScript
@@ -115,26 +114,25 @@ Tecnologías
 - Context API
 - CSS
 
-Mi participación
+### Mi participación
 
 - Desarrollo de componentes React.
 - Implementación de funcionalidades de la interfaz.
-- Consumo e integración con APIs REST.
+- Consumo e integración de APIs REST.
 - Corrección de errores y mejoras.
 - Trabajo colaborativo mediante Git y GitHub.
 
-🔗 Repositorio:
-https://github.com/jonicoke/UnaHur-Anti-Social-Net
+🔗 **Repositorio:** <https://github.com/jonicoke/UnaHur-Anti-Social-Net>
 
 ---
 
-🛒 Apple Store
+## 🛒 Apple Store
 
-Proyecto académico grupal desarrollado utilizando React.
+Proyecto académico grupal desarrollado utilizando **React**.
 
 Aplicación e-commerce con catálogo de productos, carrito de compras y navegación dinámica.
 
-Tecnologías
+### Tecnologías
 
 - React
 - JavaScript
@@ -142,24 +140,24 @@ Tecnologías
 - Bootstrap
 - CSS
 
-Mi participación
+### Mi participación
 
 - Desarrollo de componentes.
 - Implementación de funcionalidades.
 - Integración de vistas.
 - Corrección de errores.
 
-🔗 Repositorio:
-https://github.com/Brandonduce67/tienda-iphones-react
+🔗 **Repositorio:** <https://github.com/Brandonduce67/tienda-iphones-react>
+
 ---
 
-🎮 Arcane Bastion
+## 🎮 Arcane Bastion
 
-Proyecto académico grupal desarrollado en Wollok.
+Proyecto académico grupal desarrollado en **Wollok**.
 
 Videojuego creado aplicando Programación Orientada a Objetos y modelado del dominio.
 
-Conceptos aplicados
+### Conceptos aplicados
 
 - Objetos
 - Polimorfismo
@@ -168,30 +166,27 @@ Conceptos aplicados
 - Eventos
 - Colisiones
 
-Mi participación
+### Mi participación
 
 - Desarrollo de la lógica del juego.
 - Modelado de clases.
 - Implementación de mecánicas.
 - Corrección de errores.
 
-🔗 Repositorio:
-https://github.com/obj1-unahur-2025s1/TPGameIntegrador-wollokers-group
+🔗 **Repositorio:** <https://github.com/obj1-unahur-2025s1/TPGameIntegrador-wollokers-group>
 
 ---
 
-# Actualmente aprendiendo
+# 📖 Actualmente aprendiendo
 
-📚 Spring Boot
-
-📚 SQL
-
-📚 Docker
-
-📚 Arquitectura Backend
+- Spring Boot
+- SQL
+- Docker
+- Arquitectura Backend
+- Desarrollo de APIs REST
 
 ---
 
-# Objetivo
+# 🎯 Objetivo
 
-Busco una primera experiencia profesional como Software Engineer o Backend Developer donde pueda seguir aprendiendo, participar en proyectos reales y desarrollarme dentro de un equipo de ingeniería.
+Busco mi primera experiencia profesional como **Software Engineering Intern** o **Backend Developer Intern**, donde pueda seguir aprendiendo, participar en proyectos reales y desarrollarme dentro de un equipo de ingeniería.
