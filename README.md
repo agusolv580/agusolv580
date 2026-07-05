@@ -153,17 +153,17 @@ Aplicación e-commerce con catálogo de productos, carrito de compras y navegaci
 
 ## 🎮 Arcane Bastion
 
-Proyecto académico grupal desarrollado en **Wollok**.
+Proyecto académico grupal desarrollado en Wollok.
 
-Videojuego creado aplicando Programación Orientada a Objetos y modelado del dominio.
+⚠️ El código fuente pertenece a un repositorio privado de la organización de la Universidad Nacional de Hurlingham y no puede compartirse públicamente.
 
-### Conceptos aplicados
+Conceptos aplicados:
 
-- Objetos
+- Programación Orientada a Objetos
 - Polimorfismo
 - Estados
-- Modularización
 - Eventos
+- Modularización
 - Colisiones
 
 ### Mi participación
@@ -172,8 +172,6 @@ Videojuego creado aplicando Programación Orientada a Objetos y modelado del dom
 - Modelado de clases.
 - Implementación de mecánicas.
 - Corrección de errores.
-
-🔗 **Repositorio:** <https://github.com/obj1-unahur-2025s1/TPGameIntegrador-wollokers-group>
 
 ---
 
