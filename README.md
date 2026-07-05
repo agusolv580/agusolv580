@@ -100,45 +100,83 @@ Durante la carrera desarrollé conocimientos en:
 
 # Proyectos Destacados
 
-## Anti Social Net
+🌐 Anti Social Net
 
-Aplicación web desarrollada en React y TypeScript que simula una red social.
+Proyecto académico grupal desarrollado para la Universidad Nacional de Hurlingham.
 
-Mi participación:
+Aplicación web que simula una red social, desarrollada con React y TypeScript, aplicando consumo de APIs REST, manejo de estado y componentes reutilizables.
 
-- Desarrollo Frontend
-- Consumo de APIs REST
-- Componentes reutilizables
-- Trabajo colaborativo con Git
+Tecnologías
+
+- React
+- TypeScript
+- Vite
+- React Router
+- Context API
+- CSS
+
+Mi participación
+
+- Desarrollo de componentes React.
+- Implementación de funcionalidades de la interfaz.
+- Consumo e integración con APIs REST.
+- Corrección de errores y mejoras.
+- Trabajo colaborativo mediante Git y GitHub.
+
+🔗 Repositorio:
+https://github.com/jonicoke/UnaHur-Anti-Social-Net
 
 ---
 
-## Tienda iPhone
+🛒 Apple Store
 
-Aplicación e-commerce desarrollada en React.
+Proyecto académico grupal desarrollado utilizando React.
 
-Mi participación:
+Aplicación e-commerce con catálogo de productos, carrito de compras y navegación dinámica.
 
-- Desarrollo de componentes
-- Lógica de negocio
-- Navegación
-- Gestión de estado
+Tecnologías
 
+- React
+- JavaScript
+- React Router
+- Bootstrap
+- CSS
+
+Mi participación
+
+- Desarrollo de componentes.
+- Implementación de funcionalidades.
+- Integración de vistas.
+- Corrección de errores.
+
+🔗 Repositorio:
+https://github.com/Brandonduce67/tienda-iphones-react
 ---
 
-## Arcane Bastion
+🎮 Arcane Bastion
 
-Videojuego desarrollado en Wollok aplicando Programación Orientada a Objetos.
+Proyecto académico grupal desarrollado en Wollok.
 
-Conceptos aplicados:
+Videojuego creado aplicando Programación Orientada a Objetos y modelado del dominio.
+
+Conceptos aplicados
 
 - Objetos
 - Polimorfismo
 - Estados
-- Colisiones
 - Modularización
-- Responsabilidades
-- Diseño orientado a objetos
+- Eventos
+- Colisiones
+
+Mi participación
+
+- Desarrollo de la lógica del juego.
+- Modelado de clases.
+- Implementación de mecánicas.
+- Corrección de errores.
+
+🔗 Repositorio:
+https://github.com/obj1-unahur-2025s1/TPGameIntegrador-wollokers-group
 
 ---
 
